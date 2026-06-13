@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共360个图标，来自 luestr/IconResource + 自定义",
+  "description": "Loon 插件图标库，共361个图标",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -765,6 +765,10 @@
     {
       "name": "MistralAI",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MistralAI.png"
+    },
+    {
+      "name": "MixC",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MixC.png"
     },
     {
       "name": "MoeGirlWiki",
