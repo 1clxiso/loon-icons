@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共344个图标",
+  "description": "Loon 插件图标库，共345个图标",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -1377,6 +1377,10 @@
     {
       "name": "xiaomi",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xiaomi.png"
+    },
+    {
+      "name": "HeiLiaoBuDaYang",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HeiLiaoBuDaYang.png"
     }
   ]
 }
