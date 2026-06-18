@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共362个图标",
+  "description": "Loon 插件图标库，共344个图标",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -81,74 +81,6 @@
     {
       "name": "AnyVideoBox",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AnyVideoBox.png"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-1-0-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220_100x100bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png_100x100bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-1-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-11-0-0-85-220_100x100bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png_100x100bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007epad-0-11-0-85-220-0_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007epad-0-11-0-85-220-0.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0_100x100bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png_100x100bb.jpg"
-    },
-    {
-      "name": "AppIcon-0-1x_U007epad-0-1-0-85-220-0_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png_120x120bb.jpg"
-    },
-    {
-      "name": "AppIcon-1x_U007epad-0-11-0-85-220-0_100x100bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-1x_U007epad-0-11-0-85-220-0.png_100x100bb.jpg"
-    },
-    {
-      "name": "AppIcon-Release-0-0-1x_U007epad-0-11-0-0-85-220_100x100bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIcon-Release-0-0-1x_U007epad-0-11-0-0-85-220.png_100x100bb.jpg"
-    },
-    {
-      "name": "AppIconLLC-0-0-1x_U007epad-0-1-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppIconLLC-0-0-1x_U007epad-0-1-0-85-220.png_120x120bb.jpg"
     },
     {
       "name": "AppRaven",
@@ -277,6 +209,10 @@
     {
       "name": "ChatGPT",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ChatGPT.png"
+    },
+    {
+      "name": "CheLaiLe",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CheLaiLe.png"
     },
     {
       "name": "ChengFenMiao",
@@ -811,6 +747,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Nike.png"
     },
     {
+      "name": "NingMeng",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NingMeng.png"
+    },
+    {
       "name": "Notability",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Notability.png"
     },
@@ -1009,6 +949,10 @@
     {
       "name": "Scanner_Pro",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Scanner_Pro.png"
+    },
+    {
+      "name": "Search",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Search.png"
     },
     {
       "name": "SearchPicture",
@@ -1223,8 +1167,8 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Weibo.png"
     },
     {
-      "name": "WeiboAppIcon-0-0-1x_U007epad-0-1-0-0-85-220_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WeiboAppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png_120x120bb.jpg"
+      "name": "Weibo_Lite",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Weibo_Lite.png"
     },
     {
       "name": "Weibo_intl",
@@ -1383,14 +1327,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZuiYou.png"
     },
     {
-      "name": "appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220_100x100bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png_100x100bb.jpg"
-    },
-    {
-      "name": "default-0-1x_U007epad-0-1-0-0-sRGB-85-220-0_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/default-0-1x_U007epad-0-1-0-0-sRGB-85-220-0.png_120x120bb.jpg"
-    },
-    {
       "name": "eleme",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/eleme.png"
     },
@@ -1423,10 +1359,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iReaderDejian.png"
     },
     {
-      "name": "logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0_120x120bb",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png_120x120bb.jpg"
-    },
-    {
       "name": "miHoYoBBS",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/miHoYoBBS.png"
     },
@@ -1441,10 +1373,6 @@
     {
       "name": "startupads_icon",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/startupads_icon.jpg"
-    },
-    {
-      "name": "www-static_favicon.ico",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/www-static_favicon.ico"
     },
     {
       "name": "xiaomi",
