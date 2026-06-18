@@ -1,8 +1,8 @@
 # Loon Icons
 
-共 360 个图标
+共 345 个图标
 
-格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
+格式: \`https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png\`
 
 ## 图标列表
 
@@ -18,6 +18,7 @@
 - 51Job
 - 555DY
 - 91160
+
 ### A
 
 - AIWanJuan
@@ -30,28 +31,12 @@
 - AliYunDrive
 - Amap
 - AnyVideoBox
-- AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220_120x120bb
-- AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220_120x120bb
-- AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220_120x120bb
-- AppIcon-0-0-1x_U007emarketing-0-8-0-0-sRGB-85-220_120x120bb
-- AppIcon-0-0-1x_U007epad-0-1-0-0-85-220_120x120bb
-- AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220_100x100bb
-- AppIcon-0-0-1x_U007epad-0-1-0-85-220_120x120bb
-- AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220_120x120bb
-- AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220_120x120bb
-- AppIcon-0-0-1x_U007epad-0-11-0-0-85-220_100x100bb
-- AppIcon-0-0-1x_U007epad-0-11-0-85-220-0_120x120bb
-- AppIcon-0-0-1x_U007ephone-0-1-0-0-sRGB-85-220_120x120bb
-- AppIcon-0-1x_U007epad-0-1-0-0-sRGB-85-220-0_100x100bb
-- AppIcon-0-1x_U007epad-0-1-0-85-220-0_120x120bb
-- AppIcon-1x_U007epad-0-11-0-85-220-0_100x100bb
-- AppIcon-Release-0-0-1x_U007epad-0-11-0-0-85-220_100x100bb
-- AppIconLLC-0-0-1x_U007epad-0-1-0-85-220_120x120bb
 - AppRaven
 - AppleWeather
 - Asspp
 - Audiomack
 - AutoHome
+
 ### B
 
 - BabyTree
@@ -73,6 +58,7 @@
 - Bluesky
 - BodianMusic
 - BooHee
+
 ### C
 
 - CCLive
@@ -83,6 +69,7 @@
 - CatEarFM
 - Changba
 - ChatGPT
+- CheLaiLe
 - ChengFenMiao
 - ChinaBroadnet
 - ChinaMobile
@@ -96,6 +83,7 @@
 - CosmosPodcast
 - Ctrip
 - Cubox
+
 ### D
 
 - DREAME
@@ -122,6 +110,7 @@
 - DragonRead
 - DubbingShow
 - DuiTang
+
 ### E
 
 - EcovacsHome
@@ -130,6 +119,8 @@
 - Enpass_Password_Manager
 - EtouchEcalendar
 - EveryoneVideo
+- eleme
+
 ### F
 
 - FC_Box
@@ -143,6 +134,7 @@
 - FlyerTea
 - FollowRSS
 - Foodie
+
 ### G
 
 - GaoDing
@@ -153,6 +145,8 @@
 - Grok
 - Grow
 - GuideRank
+- giffgaff
+
 ### H
 
 - HMJC
@@ -160,15 +154,24 @@
 - HanXiaoQuan
 - HappyDays
 - HeartideBrainWave
+- HeiLiaoBuDaYang
 - Himalaya
 - HonorOfKingsGameHelper
 - Huxiu
 - Hypnotist
+
 ### I
 
 - IThome
 - Instagram
 - Instapaper
+- i4Assistant
+- iMaiCai
+- iQiYi_Video
+- iReader
+- iReaderCityZHWNL
+- iReaderDejian
+
 ### J
 
 - JD
@@ -180,6 +183,7 @@
 - JiaXiaoDrive
 - Jin10Data
 - Jump
+
 ### K
 
 - KGRing
@@ -198,6 +202,7 @@
 - KuroBBS
 - Kuwo
 - KwaiVideoeditor
+
 ### L
 
 - LOL_Bible
@@ -206,6 +211,7 @@
 - LiveLab
 - Loon
 - LuckinCoffee
+
 ### M
 
 - MKZ
@@ -225,9 +231,13 @@
 - MicrosoftCopilot
 - MissAV
 - MistralAI
+- MixC
 - MoeGirlWiki
 - MojiWeather
 - MrHema
+- miHoYoBBS
+- mobileClouds
+
 ### N
 
 - NarwelRobots
@@ -237,8 +247,10 @@
 - Netflix
 - Nicegram
 - Nike
+- NingMeng
 - Notability
 - NovelFM
+
 ### O
 
 - OKX
@@ -248,6 +260,7 @@
 - OoklaSpeedtest
 - Oopz
 - OraySunlogin
+
 ### P
 
 - PDF_Expert
@@ -271,6 +284,7 @@
 - ProtonPass
 - ProtonVPN
 - PuPuMall
+
 ### Q
 
 - QQ
@@ -281,6 +295,7 @@
 - QtingFM
 - QuarkBrowser
 - QuarkScanking
+
 ### R
 
 - RQrun
@@ -290,6 +305,7 @@
 - RiskBird
 - RoboTaxi
 - Roborock
+
 ### S
 
 - SF-Express
@@ -297,6 +313,7 @@
 - Safari
 - SafetyHome
 - Scanner_Pro
+- Search
 - SearchPicture
 - SeasunJX3
 - SevenCat
@@ -315,10 +332,14 @@
 - Spotify
 - Stay
 - SuZhouCitizenCard
+- smzdm
+- startupads_icon
+
 ### T
 
 - TV_Assistant
 - TXDocs
+- TaikangOnline
 - Talkatone
 - Taobao
 - TaobaoTravel
@@ -337,6 +358,7 @@
 - TuGuaiShou
 - TubeMax
 - Tumblr
+
 ### U
 
 - Udn
@@ -345,11 +367,13 @@
 - UnionPay
 - UnnooQuan
 - UpNote
+
 ### V
 
 - VVebo
 - ValorantBible
 - VideoGo
+
 ### W
 
 - WPForum
@@ -357,7 +381,7 @@
 - WPS_Documents
 - WaCaiJiZhang
 - Weibo
-- WeiboAppIcon-0-0-1x_U007epad-0-1-0-0-85-220_120x120bb
+- Weibo_Lite
 - Weibo_intl
 - Weimai
 - Weixin
@@ -365,6 +389,7 @@
 - WindInfo
 - WukongBrowser
 - WutaCamera
+
 ### X
 
 - X
@@ -376,6 +401,8 @@
 - XiaomiSpeaker
 - Xmind
 - XunLei
+- xiaomi
+
 ### Y
 
 - YYVoiceTool
@@ -392,6 +419,7 @@
 - YoudaoTrans
 - YueDanBa
 - Yueyou
+
 ### Z
 
 - ZAKER
@@ -403,40 +431,3 @@
 - ZhuanZhuan
 - ZongHeng
 - ZuiYou
-### A
-
-- appIconLiquid-0-0-1x_U007epad-0-1-0-0-sRGB-85-220_100x100bb
-### D
-
-- default-0-1x_U007epad-0-1-0-0-sRGB-85-220-0_120x120bb
-### E
-
-- eleme
-### G
-
-- giffgaff
-### I
-
-- i4Assistant
-- iMaiCai
-- iQiYi_Video
-- iReader
-- iReaderCityZHWNL
-- iReaderDejian
-### L
-
-- logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0_120x120bb
-### M
-
-- miHoYoBBS
-- mobileClouds
-### S
-
-- smzdm
-- startupads_icon
-### W
-
-- www-static_favicon.ico
-### X
-
-- xiaomi
