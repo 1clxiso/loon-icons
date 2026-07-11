@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共343个图标",
+  "description": "Loon 插件图标库，共344个图标",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -985,6 +985,10 @@
     {
       "name": "Scanner_Pro",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Scanner_Pro.png"
+    },
+    {
+      "name": "scripable",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/scripable.png"
     },
     {
       "name": "SearchPicture",
