@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共345个图标",
+  "description": "Loon 插件图标库，共343个图标",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -43,10 +43,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/91160.png"
     },
     {
-      "name": "AIWanJuan",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AIWanJuan.png"
-    },
-    {
       "name": "AdblockPlus",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AdblockPlus.png"
     },
@@ -67,6 +63,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Airport.png"
     },
     {
+      "name": "AIWanJuan",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AIWanJuan.png"
+    },
+    {
       "name": "AliPay",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AliPay.png"
     },
@@ -83,12 +83,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AnyVideoBox.png"
     },
     {
-      "name": "AppRaven",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppRaven.png"
-    },
-    {
       "name": "AppleWeather",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppleWeather.png"
+    },
+    {
+      "name": "AppRaven",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AppRaven.png"
     },
     {
       "name": "Asspp",
@@ -115,6 +115,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Baidu.png"
     },
     {
+      "name": "Baidu_input_method",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Baidu_input_method.png"
+    },
+    {
       "name": "BaiduMap",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BaiduMap.png"
     },
@@ -131,10 +135,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BaiduWenku.png"
     },
     {
-      "name": "Baidu_input_method",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Baidu_input_method.png"
-    },
-    {
       "name": "Bcy",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Bcy.png"
     },
@@ -147,12 +147,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BestWall.png"
     },
     {
-      "name": "BiliComic",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BiliComic.png"
-    },
-    {
       "name": "Bilibili",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Bilibili.png"
+    },
+    {
+      "name": "BiliComic",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BiliComic.png"
     },
     {
       "name": "Bing",
@@ -179,14 +179,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BooHee.png"
     },
     {
-      "name": "CCLive",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CCLive.png"
-    },
-    {
-      "name": "CF_Bible",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CF_Bible.png"
-    },
-    {
       "name": "CaiLianShe",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CaiLianShe.png"
     },
@@ -195,12 +187,24 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Cainiao.png"
     },
     {
+      "name": "cainiaoyizhan",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/cainiaoyizhan.png"
+    },
+    {
       "name": "CaixinMedia",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CaixinMedia.png"
     },
     {
       "name": "CatEarFM",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CatEarFM.png"
+    },
+    {
+      "name": "CCLive",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CCLive.png"
+    },
+    {
+      "name": "CF_Bible",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CF_Bible.png"
     },
     {
       "name": "Changba",
@@ -267,10 +271,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Cubox.png"
     },
     {
-      "name": "DREAME",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DREAME.png"
-    },
-    {
       "name": "Daily",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Daily.png"
     },
@@ -295,16 +295,20 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DeepSeek.png"
     },
     {
+      "name": "dejianxiaoshuo",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/dejianxiaoshuo.png"
+    },
+    {
       "name": "Dewu",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Dewu.png"
     },
     {
-      "name": "DiDi",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DiDi.png"
-    },
-    {
       "name": "DidaPincheTaxi",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DidaPincheTaxi.png"
+    },
+    {
+      "name": "DiDi",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DiDi.png"
     },
     {
       "name": "DigitalHeartbeat",
@@ -355,6 +359,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DragonRead.png"
     },
     {
+      "name": "DREAME",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DREAME.png"
+    },
+    {
       "name": "DubbingShow",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/DubbingShow.png"
     },
@@ -365,6 +373,10 @@
     {
       "name": "EcovacsHome",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/EcovacsHome.png"
+    },
+    {
+      "name": "eleme",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/eleme.png"
     },
     {
       "name": "Elk",
@@ -387,16 +399,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/EveryoneVideo.png"
     },
     {
-      "name": "fengcao",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/fengcao.png"
-    },
-    {
       "name": "Feichangzhun",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Feichangzhun.png"
     },
     {
       "name": "FenBi",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/FenBi.png"
+    },
+    {
+      "name": "fengcao",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/fengcao.png"
     },
     {
       "name": "FenxiangLife",
@@ -415,10 +427,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/FinanceNews.png"
     },
     {
-      "name": "xianyu",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xianyu.png"
-    },
-    {
       "name": "FlyerTea",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/FlyerTea.png"
     },
@@ -433,6 +441,10 @@
     {
       "name": "GaoDing",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/GaoDing.png"
+    },
+    {
+      "name": "giffgaff",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/giffgaff.png"
     },
     {
       "name": "GitHub",
@@ -463,14 +475,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/GuideRank.png"
     },
     {
-      "name": "HMJC",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HMJC.png"
-    },
-    {
-      "name": "HUPU",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HUPU.png"
-    },
-    {
       "name": "HanXiaoQuan",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HanXiaoQuan.png"
     },
@@ -483,12 +487,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HeartideBrainWave.png"
     },
     {
-      "name": "ximalaya",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ximalaya.png"
+      "name": "HeiLiaoBuDaYang",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HeiLiaoBuDaYang.png"
     },
     {
-      "name": "wangzheyingdi",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/wangzheyingdi.png"
+      "name": "HMJC",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HMJC.png"
+    },
+    {
+      "name": "HUPU",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HUPU.png"
     },
     {
       "name": "Huxiu",
@@ -499,8 +507,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Hypnotist.png"
     },
     {
-      "name": "IThome",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/IThome.png"
+      "name": "i4Assistant",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/i4Assistant.png"
+    },
+    {
+      "name": "iMaiCai",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iMaiCai.png"
     },
     {
       "name": "Instagram",
@@ -509,6 +521,30 @@
     {
       "name": "Instapaper",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Instapaper.png"
+    },
+    {
+      "name": "iQiYi_Video",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iQiYi_Video.png"
+    },
+    {
+      "name": "iReader",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iReader.png"
+    },
+    {
+      "name": "iReaderCityZHWNL",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iReaderCityZHWNL.png"
+    },
+    {
+      "name": "IThome",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/IThome.png"
+    },
+    {
+      "name": "JavaScriptConverter",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JavaScriptConverter.png"
+    },
+    {
+      "name": "JavDB",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JavDB.png"
     },
     {
       "name": "JD",
@@ -521,14 +557,6 @@
     {
       "name": "JDWaimai",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JDWaimai.png"
-    },
-    {
-      "name": "JavDB",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JavDB.png"
-    },
-    {
-      "name": "JavaScriptConverter",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JavaScriptConverter.png"
     },
     {
       "name": "JiaKaoBaoDian",
@@ -547,14 +575,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Jump.png"
     },
     {
-      "name": "KGRing",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KGRing.png"
-    },
-    {
-      "name": "KOOK",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KOOK.png"
-    },
-    {
       "name": "Kantian",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Kantian.png"
     },
@@ -567,6 +587,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Keep.png"
     },
     {
+      "name": "KGRing",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KGRing.png"
+    },
+    {
       "name": "Kimi",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Kimi.png"
     },
@@ -575,12 +599,8 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KingdeeMyMoney.png"
     },
     {
-      "name": "KuGou",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KuGou.png"
-    },
-    {
-      "name": "KuGouYouth",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KuGouYouth.png"
+      "name": "KOOK",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KOOK.png"
     },
     {
       "name": "KuaiDi100",
@@ -599,6 +619,14 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KuaiShou.png"
     },
     {
+      "name": "KuGou",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KuGou.png"
+    },
+    {
+      "name": "KuGouYouth",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KuGouYouth.png"
+    },
+    {
       "name": "KuroBBS",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KuroBBS.png"
     },
@@ -611,12 +639,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/KwaiVideoeditor.png"
     },
     {
-      "name": "LOL_Bible",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/LOL_Bible.png"
-    },
-    {
       "name": "LazyAudio",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/LazyAudio.png"
+    },
+    {
+      "name": "liantong",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/liantong.png"
     },
     {
       "name": "Line",
@@ -627,6 +655,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/LiveLab.png"
     },
     {
+      "name": "LOL_Bible",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/LOL_Bible.png"
+    },
+    {
       "name": "Loon",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Loon.png"
     },
@@ -635,24 +667,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/LuckinCoffee.png"
     },
     {
-      "name": "MKZ",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MKZ.png"
-    },
-    {
-      "name": "MOMO",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MOMO.png"
-    },
-    {
       "name": "MaFengWo",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MaFengWo.png"
     },
     {
-      "name": "MaiMai",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MaiMai.png"
-    },
-    {
       "name": "MailMaster",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MailMaster.png"
+    },
+    {
+      "name": "MaiMai",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MaiMai.png"
     },
     {
       "name": "Mango_TV",
@@ -683,16 +707,20 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Meizhixiuxing.png"
     },
     {
-      "name": "MiHome",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MiHome.png"
-    },
-    {
       "name": "MiaoRead",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MiaoRead.png"
     },
     {
       "name": "MicrosoftCopilot",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MicrosoftCopilot.png"
+    },
+    {
+      "name": "MiHome",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MiHome.png"
+    },
+    {
+      "name": "miHoYoBBS",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/miHoYoBBS.png"
     },
     {
       "name": "MissAV",
@@ -707,12 +735,24 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MixC.png"
     },
     {
+      "name": "MKZ",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MKZ.png"
+    },
+    {
+      "name": "mobileClouds",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/mobileClouds.png"
+    },
+    {
       "name": "MoeGirlWiki",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MoeGirlWiki.png"
     },
     {
       "name": "MojiWeather",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MojiWeather.png"
+    },
+    {
+      "name": "MOMO",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MOMO.png"
     },
     {
       "name": "MrHema",
@@ -723,12 +763,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NarwelRobots.png"
     },
     {
-      "name": "NetEaseGodlike",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NetEaseGodlike.png"
-    },
-    {
       "name": "NeteaseCloudMusic",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NeteaseCloudMusic.png"
+    },
+    {
+      "name": "NetEaseGodlike",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NetEaseGodlike.png"
     },
     {
       "name": "NeteaseNews",
@@ -747,10 +787,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Nike.png"
     },
     {
-      "name": "cainiaoyizhan",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/cainiaoyizhan.png"
-    },
-    {
       "name": "Notability",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Notability.png"
     },
@@ -763,16 +799,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/OKX.png"
     },
     {
-      "name": "OnTheWay",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/OnTheWay.png"
-    },
-    {
       "name": "OneClickCutout",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/OneClickCutout.png"
     },
     {
       "name": "OneKey",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/OneKey.png"
+    },
+    {
+      "name": "OnTheWay",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/OnTheWay.png"
     },
     {
       "name": "OoklaSpeedtest",
@@ -787,18 +823,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/OraySunlogin.png"
     },
     {
-      "name": "PDF_Expert",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PDF_Expert.png"
-    },
-    {
-      "name": "PICC_Insurance",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PICC_Insurance.png"
-    },
-    {
-      "name": "PUBGMHD_Bible",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PUBGMHD_Bible.png"
-    },
-    {
       "name": "PangguaiLife",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PangguaiLife.png"
     },
@@ -811,6 +835,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PayPal.png"
     },
     {
+      "name": "PDF_Expert",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PDF_Expert.png"
+    },
+    {
       "name": "PerfectWorldEsport",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PerfectWorldEsport.png"
     },
@@ -819,8 +847,8 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PhoenixVideo.png"
     },
     {
-      "name": "PiPiXia",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PiPiXia.png"
+      "name": "PICC_Insurance",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PICC_Insurance.png"
     },
     {
       "name": "Picsart",
@@ -837,6 +865,10 @@
     {
       "name": "Pinterest",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Pinterest.png"
+    },
+    {
+      "name": "PiPiXia",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PiPiXia.png"
     },
     {
       "name": "PrimeVideo",
@@ -867,12 +899,32 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ProtonVPN.png"
     },
     {
+      "name": "PUBGMHD_Bible",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PUBGMHD_Bible.png"
+    },
+    {
       "name": "PuPuMall",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PuPuMall.png"
     },
     {
+      "name": "QiDian",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QiDian.png"
+    },
+    {
+      "name": "qishui",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/qishui.png"
+    },
+    {
+      "name": "QiXinBao",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QiXinBao.png"
+    },
+    {
       "name": "QQ",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QQ.png"
+    },
+    {
+      "name": "QQ2",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QQ2.png"
     },
     {
       "name": "QQKSong",
@@ -881,14 +933,6 @@
     {
       "name": "QQMusic",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QQMusic.png"
-    },
-    {
-      "name": "QiDian",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QiDian.png"
-    },
-    {
-      "name": "QiXinBao",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QiXinBao.png"
     },
     {
       "name": "QtingFM",
@@ -903,16 +947,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QuarkScanking.png"
     },
     {
-      "name": "RQrun",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RQrun.png"
+      "name": "Reddit",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Reddit.png"
     },
     {
       "name": "RedPaper",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RedPaper.png"
-    },
-    {
-      "name": "Reddit",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Reddit.png"
     },
     {
       "name": "ReelShort",
@@ -923,20 +963,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RiskBird.png"
     },
     {
-      "name": "RoboTaxi",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RoboTaxi.png"
-    },
-    {
       "name": "Roborock",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Roborock.png"
     },
     {
-      "name": "SF-Express",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SF-Express.png"
+      "name": "RoboTaxi",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RoboTaxi.png"
     },
     {
-      "name": "shenzhenditie",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/shenzhenditie.png"
+      "name": "RQrun",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RQrun.png"
     },
     {
       "name": "Safari",
@@ -951,16 +987,24 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Scanner_Pro.png"
     },
     {
-      "name": "liantong",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/liantong.png"
-    },
-    {
       "name": "SearchPicture",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SearchPicture.png"
     },
     {
       "name": "SevenCat",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SevenCat.png"
+    },
+    {
+      "name": "SF-Express",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SF-Express.png"
+    },
+    {
+      "name": "shenzhenditie",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/shenzhenditie.png"
+    },
+    {
+      "name": "shihuo",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/shihuo.png"
     },
     {
       "name": "ShopKeeperAdmin",
@@ -983,20 +1027,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Sina_Weibo.png"
     },
     {
+      "name": "smzdm",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/smzdm.png"
+    },
+    {
       "name": "SnailSleep",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SnailSleep.png"
     },
     {
       "name": "SnowCamera",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SnowCamera.png"
-    },
-    {
-      "name": "xueqiu",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xueqiu.png"
-    },
-    {
-      "name": "qishui",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/qishui.png"
     },
     {
       "name": "SouguMyBus",
@@ -1015,20 +1055,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Spotify.png"
     },
     {
+      "name": "startupads_icon",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/startupads_icon.jpg"
+    },
+    {
       "name": "Stay",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Stay.png"
     },
     {
       "name": "SuZhouCitizenCard",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SuZhouCitizenCard.png"
-    },
-    {
-      "name": "TV_Assistant",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TV_Assistant.png"
-    },
-    {
-      "name": "TXDocs",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TXDocs.png"
     },
     {
       "name": "TaikangOnline",
@@ -1059,16 +1095,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Telegram.png"
     },
     {
-      "name": "QQ2",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QQ2.png"
+      "name": "Tencent_Video",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Tencent_Video.png"
     },
     {
       "name": "TencentComic",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TencentComic.png"
-    },
-    {
-      "name": "Tencent_Video",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Tencent_Video.png"
     },
     {
       "name": "TeraBox",
@@ -1091,16 +1123,24 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TongYi.png"
     },
     {
-      "name": "TuGuaiShou",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TuGuaiShou.png"
-    },
-    {
       "name": "TubeMax",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TubeMax.png"
     },
     {
+      "name": "TuGuaiShou",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TuGuaiShou.png"
+    },
+    {
       "name": "Tumblr",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Tumblr.png"
+    },
+    {
+      "name": "TV_Assistant",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TV_Assistant.png"
+    },
+    {
+      "name": "TXDocs",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TXDocs.png"
     },
     {
       "name": "Udn",
@@ -1127,10 +1167,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/UpNote.png"
     },
     {
-      "name": "VVebo",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/VVebo.png"
-    },
-    {
       "name": "ValorantBible",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ValorantBible.png"
     },
@@ -1139,20 +1175,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/VideoGo.png"
     },
     {
-      "name": "WPForum",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WPForum.png"
-    },
-    {
-      "name": "WPS",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WPS.png"
-    },
-    {
-      "name": "WPS_Documents",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WPS_Documents.png"
+      "name": "VVebo",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/VVebo.png"
     },
     {
       "name": "WaCaiJiZhang",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WaCaiJiZhang.png"
+    },
+    {
+      "name": "wangzheyingdi",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/wangzheyingdi.png"
     },
     {
       "name": "Weibo",
@@ -1179,6 +1211,18 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WindInfo.png"
     },
     {
+      "name": "WPForum",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WPForum.png"
+    },
+    {
+      "name": "WPS",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WPS.png"
+    },
+    {
+      "name": "WPS_Documents",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WPS_Documents.png"
+    },
+    {
       "name": "WukongBrowser",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WukongBrowser.png"
     },
@@ -1199,6 +1243,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XiaChuFang.png"
     },
     {
+      "name": "xianyu",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xianyu.png"
+    },
+    {
       "name": "XiaoCan",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XiaoCan.png"
     },
@@ -1211,24 +1259,28 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XiaojukejiCharge.png"
     },
     {
+      "name": "xiaomi",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xiaomi.png"
+    },
+    {
       "name": "XiaomiSpeaker",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XiaomiSpeaker.png"
+    },
+    {
+      "name": "ximalaya",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ximalaya.png"
     },
     {
       "name": "Xmind",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Xmind.png"
     },
     {
+      "name": "xueqiu",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xueqiu.png"
+    },
+    {
       "name": "XunLei",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XunLei.png"
-    },
-    {
-      "name": "YYVoiceTool",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YYVoiceTool.png"
-    },
-    {
-      "name": "YY_Voice",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YY_Voice.png"
     },
     {
       "name": "YangShiPin",
@@ -1247,18 +1299,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Yitian.png"
     },
     {
-      "name": "YouKu_Video",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouKu_Video.png"
-    },
-    {
-      "name": "YouTube",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouTube.png"
-    },
-    {
-      "name": "YouTubeMusic",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouTubeMusic.png"
-    },
-    {
       "name": "YoudaoDict",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YoudaoDict.png"
     },
@@ -1271,24 +1311,32 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YoudaoTrans.png"
     },
     {
-      "name": "省钱快报",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/省钱快报.png"
+      "name": "YouKu_Video",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouKu_Video.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouTube.png"
+    },
+    {
+      "name": "YouTubeMusic",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouTubeMusic.png"
     },
     {
       "name": "Yueyou",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Yueyou.png"
     },
     {
+      "name": "YY_Voice",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YY_Voice.png"
+    },
+    {
+      "name": "YYVoiceTool",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YYVoiceTool.png"
+    },
+    {
       "name": "ZAKER",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZAKER.png"
-    },
-    {
-      "name": "ZhiLianZhaoPin",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZhiLianZhaoPin.png"
-    },
-    {
-      "name": "ZhiPuChatGLM",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZhiPuChatGLM.png"
     },
     {
       "name": "Zhibo8",
@@ -1297,6 +1345,14 @@
     {
       "name": "Zhihu",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Zhihu.png"
+    },
+    {
+      "name": "ZhiLianZhaoPin",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZhiLianZhaoPin.png"
+    },
+    {
+      "name": "ZhiPuChatGLM",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZhiPuChatGLM.png"
     },
     {
       "name": "ZhixingHC",
@@ -1315,60 +1371,8 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZuiYou.png"
     },
     {
-      "name": "eleme",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/eleme.png"
-    },
-    {
-      "name": "giffgaff",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/giffgaff.png"
-    },
-    {
-      "name": "i4Assistant",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/i4Assistant.png"
-    },
-    {
-      "name": "iMaiCai",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iMaiCai.png"
-    },
-    {
-      "name": "iQiYi_Video",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iQiYi_Video.png"
-    },
-    {
-      "name": "iReader",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iReader.png"
-    },
-    {
-      "name": "iReaderCityZHWNL",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/iReaderCityZHWNL.png"
-    },
-    {
-      "name": "dejianxiaoshuo",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/dejianxiaoshuo.png"
-    },
-    {
-      "name": "miHoYoBBS",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/miHoYoBBS.png"
-    },
-    {
-      "name": "mobileClouds",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/mobileClouds.png"
-    },
-    {
-      "name": "smzdm",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/smzdm.png"
-    },
-    {
-      "name": "startupads_icon",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/startupads_icon.jpg"
-    },
-    {
-      "name": "xiaomi",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xiaomi.png"
-    },
-    {
-      "name": "HeiLiaoBuDaYang",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HeiLiaoBuDaYang.png"
+      "name": "省钱快报",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/省钱快报.png"
     }
   ]
 }
