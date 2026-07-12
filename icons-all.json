@@ -951,10 +951,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Reddit.png"
     },
     {
-      "name": "RedPaper",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/RedPaper.png"
-    },
-    {
       "name": "ReelShort",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ReelShort.png"
     },
@@ -1257,6 +1253,10 @@
     {
       "name": "XiaoHeiHe",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XiaoHeiHe.png"
+    },
+    {
+      "name": "xiaohongshu",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xiaohongshu.png"
     },
     {
       "name": "XiaojukejiCharge",
