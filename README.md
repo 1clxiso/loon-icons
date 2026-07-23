@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 367 个图标
+共 372 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -34,10 +34,12 @@
 - Adobe_Creative_Cloud
 - adultra
 - Agenda
+- aiqicha
 - Airport
 - AIWanJuan
 - AliPay
 - AliYunDrive
+- Amap
 - AnyVideoBox
 - AppleWeather
 - AppRaven
@@ -108,6 +110,7 @@
 - DeepSeek
 - dejianxiaoshuo
 - Dewu
+- didachuxing
 - DidaPincheTaxi
 - DiDi
 - DigitalHeartbeat
@@ -229,6 +232,7 @@
 - Line
 - LiveLab
 - LOL_Bible
+- loon
 - LuckinCoffee
 
 ### M
@@ -427,6 +431,7 @@
 - xiaomi
 - XiaomiSpeaker
 - xiaoxiangchaoshi
+- xiaoxiaoyouxuan
 - ximalaya
 - Xmind
 - xueqiu

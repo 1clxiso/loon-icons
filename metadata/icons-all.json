@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共367个图标",
+  "description": "Loon 插件图标库，共372个图标",
   "icons": [
     {
       "name": "1.1.1.1",
@@ -67,6 +67,10 @@
       "file": "Agenda.png"
     },
     {
+      "name": "aiqicha",
+      "file": "aiqicha.png"
+    },
+    {
       "name": "Airport",
       "file": "Airport.png"
     },
@@ -81,6 +85,10 @@
     {
       "name": "AliYunDrive",
       "file": "AliYunDrive.png"
+    },
+    {
+      "name": "Amap",
+      "file": "Amap.png"
     },
     {
       "name": "AnyVideoBox",
@@ -325,6 +333,10 @@
     {
       "name": "Dewu",
       "file": "Dewu.png"
+    },
+    {
+      "name": "didachuxing",
+      "file": "didachuxing.png"
     },
     {
       "name": "DidaPincheTaxi",
@@ -713,6 +725,10 @@
     {
       "name": "LOL_Bible",
       "file": "LOL_Bible.png"
+    },
+    {
+      "name": "loon",
+      "file": "loon.png"
     },
     {
       "name": "LuckinCoffee",
@@ -1361,6 +1377,10 @@
     {
       "name": "xiaoxiangchaoshi",
       "file": "xiaoxiangchaoshi.png"
+    },
+    {
+      "name": "xiaoxiaoyouxuan",
+      "file": "xiaoxiaoyouxuan.png"
     },
     {
       "name": "ximalaya",
