@@ -1,8 +1,15 @@
 # Loon Icons
 
-共 345 个图标
+共 367 个图标
 
-格式: \`https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png\`
+图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
+
+## 索引文件
+
+| 文件 | 说明 | 链接 |
+|------|------|------|
+| icons-all.json | 全部图标 JSON 索引 | [下载](https://raw.githubusercontent.com/1clxiso/loon-icons/main/metadata/icons-all.json) |
+| icons.list | 全部图标列表（name = url） | [下载](https://raw.githubusercontent.com/1clxiso/loon-icons/main/metadata/icons.list) |
 
 ## 图标列表
 
@@ -12,6 +19,8 @@
 - 12306
 - 123NetWorkDisk
 - 1919
+- 2345tianqiwang
+- 2345WeatherKing
 - 2bulu
 - 360SmartCamera
 - 36Kr
@@ -21,18 +30,17 @@
 
 ### A
 
-- AIWanJuan
 - AdblockPlus
 - Adobe_Creative_Cloud
+- adultra
 - Agenda
-- Aiinquiry
 - Airport
+- AIWanJuan
 - AliPay
 - AliYunDrive
-- Amap
 - AnyVideoBox
-- AppRaven
 - AppleWeather
+- AppRaven
 - Asspp
 - Audiomack
 - AutoHome
@@ -42,36 +50,41 @@
 - BabyTree
 - BaiCiZhan
 - Baidu
+- Baidu_input_method
 - BaiduMap
 - BaiduNetDisk
 - BaiduPhoto
 - BaiduWenku
-- Baidu_input_method
 - Bcy
 - Beike
 - BestWall
-- BiliComic
 - Bilibili
+- BiliComic
 - Bing
 - BitqiuPan
 - Bixin
+- blockads
 - Bluesky
 - BodianMusic
 - BooHee
+- ByteDance
 
 ### C
 
-- CCLive
-- CF_Bible
 - CaiLianShe
 - Cainiao
+- cainiaoyizhan
 - CaixinMedia
 - CatEarFM
+- CCBLife
+- CCLive
+- CF_Bible
 - Changba
 - ChatGPT
 - CheLaiLe
 - ChengFenMiao
 - ChinaBroadnet
+- chinamobile
 - ChinaMobile
 - ChinaTetlcom
 - ChinaUnicom
@@ -79,6 +92,7 @@
 - Claude
 - ColorfulClouds
 - ColorfulCloudsPro
+- Cookies
 - CoolApk
 - CosmosPodcast
 - Ctrip
@@ -86,51 +100,53 @@
 
 ### D
 
-- DREAME
 - Daily
 - Damai
 - Darkroom
 - Dazn
 - DeepL
 - DeepSeek
+- dejianxiaoshuo
 - Dewu
-- DiDi
 - DidaPincheTaxi
+- DiDi
 - DigitalHeartbeat
 - DingdongMaicai
 - Discord
 - Discovery+
 - Disney+
 - Dlabel
+- dns
 - Documents
 - DouBan
 - DoubanRead
 - Douyu
 - Drafts
 - DragonRead
+- DREAME
 - DubbingShow
 - DuiTang
 
 ### E
 
 - EcovacsHome
+- eleme
 - Elk
 - Emby
 - Enpass_Password_Manager
 - EtouchEcalendar
 - EveryoneVideo
-- eleme
 
 ### F
 
-- FC_Box
-- FeeyoVeryZhunLITE
+- fanqiexiaoshuo
+- Feichangzhun
 - FenBi
+- fengcao
 - FenxiangLife
 - Fileball
 - Filen
 - FinanceNews
-- FleaMarket
 - FlyerTea
 - FollowRSS
 - Foodie
@@ -138,144 +154,148 @@
 ### G
 
 - GaoDing
+- giffgaff
 - GitHub
 - Google
 - GoogleGemini
 - GotoCharge
 - Grok
 - Grow
+- guaishouchondian
+- GuaiShouChongDian
 - GuideRank
-- giffgaff
 
 ### H
 
-- HMJC
-- HUPU
 - HanXiaoQuan
 - HappyDays
 - HeartideBrainWave
 - HeiLiaoBuDaYang
-- Himalaya
-- HonorOfKingsGameHelper
+- HMJC
+- HUPU
 - Huxiu
 - Hypnotist
 
 ### I
 
-- IThome
+- i4Assistant
+- insav
 - Instagram
 - Instapaper
-- i4Assistant
-- iMaiCai
 - iQiYi_Video
 - iReader
 - iReaderCityZHWNL
-- iReaderDejian
+- IThome
 
 ### J
 
+- JavaScriptConverter
+- JavDB
 - JD
+- jd_price
 - JDJinRong
 - JDWaimai
-- JavDB
-- JavaScriptConverter
 - JiaKaoBaoDian
+- jiansheyinhang
 - JiaXiaoDrive
 - Jin10Data
 - Jump
 
 ### K
 
-- KGRing
-- KOOK
 - Kantian
 - KebidaDushu
 - Keep
+- kendeji
+- KFC
+- KGRing
 - Kimi
 - KingdeeMyMoney
-- KuGou
-- KuGouYouth
+- KOOK
 - KuaiDi100
 - KuaiDuiZuoYe
 - KuaiKanComic
 - KuaiShou
+- KuGou
+- KuGouYouth
 - KuroBBS
 - Kuwo
 - KwaiVideoeditor
 
 ### L
 
-- LOL_Bible
 - LazyAudio
+- liantong
 - Line
 - LiveLab
-- Loon
+- LOL_Bible
 - LuckinCoffee
 
 ### M
 
-- MKZ
-- MOMO
 - MaFengWo
-- MaiMai
+- maidanlao
 - MailMaster
+- MaiMai
 - Mango_TV
+- McDonalds
 - MeetYou
 - MeiShiJie
 - MeiTu
 - MeiTuanItakeaway
 - MeituMYXJ
 - Meizhixiuxing
-- MiHome
 - MiaoRead
 - MicrosoftCopilot
+- MiHome
+- miHoYoBBS
 - MissAV
 - MistralAI
 - MixC
+- MKZ
+- mobileClouds
 - MoeGirlWiki
 - MojiWeather
+- MOMO
 - MrHema
-- miHoYoBBS
-- mobileClouds
 
 ### N
 
 - NarwelRobots
-- NetEaseGodlike
 - NeteaseCloudMusic
+- NetEaseGodlike
 - NeteaseNews
 - Netflix
 - Nicegram
 - Nike
-- NingMeng
+- nodecheck
 - Notability
 - NovelFM
 
 ### O
 
 - OKX
-- OnTheWay
 - OneClickCutout
 - OneKey
+- OnTheWay
 - OoklaSpeedtest
 - Oopz
 - OraySunlogin
 
 ### P
 
-- PDF_Expert
-- PICC_Insurance
-- PUBGMHD_Bible
 - PangguaiLife
 - Paramount+
 - PayPal
+- PDF_Expert
 - PerfectWorldEsport
 - PhoenixVideo
-- PiPiXia
+- PICC_Insurance
 - Picsart
 - PikPak
 - PinDuoDuo
 - Pinterest
+- PiPiXia
 - PrimeVideo
 - ProCamera
 - ProtonCalendar
@@ -283,81 +303,81 @@
 - ProtonMail
 - ProtonPass
 - ProtonVPN
+- PUBGMHD_Bible
 - PuPuMall
 
 ### Q
 
+- QiDian
+- qishui
+- QiXinBao
 - QQ
+- QQ2
 - QQKSong
 - QQMusic
-- QiDian
-- QiXinBao
 - QtingFM
 - QuarkBrowser
 - QuarkScanking
 
 ### R
 
-- RQrun
-- RedPaper
 - Reddit
 - ReelShort
 - RiskBird
-- RoboTaxi
 - Roborock
+- RoboTaxi
+- RQrun
 
 ### S
 
-- SF-Express
-- SZMetro
 - Safari
 - SafetyHome
 - Scanner_Pro
-- Search
+- scripable
 - SearchPicture
-- SeasunJX3
 - SevenCat
+- SF-Express
+- shenzhenditie
+- shihuo
 - ShopKeeperAdmin
 - ShouYinTongMerchant
 - ShuQiCenterReader
 - Signal
 - Sina_Weibo
+- smzdm
 - SnailSleep
 - SnowCamera
-- Snowball
-- SodaMusic
 - SouguMyBus
 - Soul
 - Spark
 - Spotify
+- startupads_icon
 - Stay
 - SuZhouCitizenCard
-- smzdm
-- startupads_icon
 
 ### T
 
-- TV_Assistant
-- TXDocs
-- TaikangOnline
+- taikangbaoxian
 - Talkatone
 - Taobao
 - TaobaoTravel
 - Taopiaopiao
 - TapTap
-- Taqu
 - Telegram
-- Tencent
-- TencentComic
 - Tencent_Video
+- TencentComic
 - TeraBox
 - TestFlight
+- tianmaoyangche
 - Tieba
 - TikTok
+- TmallAutoCare
 - TongYi
-- TuGuaiShou
 - TubeMax
+- TuGuaiShou
 - Tumblr
+- TV_Assistant
+- TXDocs
 
 ### U
 
@@ -370,64 +390,76 @@
 
 ### V
 
-- VVebo
 - ValorantBible
 - VideoGo
+- VVebo
 
 ### W
 
-- WPForum
-- WPS
-- WPS_Documents
 - WaCaiJiZhang
+- wangzheyingdi
 - Weibo
-- Weibo_Lite
 - Weibo_intl
 - Weimai
 - Weixin
 - WeixinMiniPrograms
 - WindInfo
+- wloc
+- WPForum
+- WPS
+- WPS_Documents
 - WukongBrowser
 - WutaCamera
+- wyy
 
 ### X
 
 - X
 - XFuse
 - XiaChuFang
+- xianyu
+- xianyu
 - XiaoCan
 - XiaoHeiHe
+- xiaohongshu
+- xiaohongshu
 - XiaojukejiCharge
-- XiaomiSpeaker
-- Xmind
-- XunLei
 - xiaomi
+- XiaomiSpeaker
+- xiaoxiangchaoshi
+- ximalaya
+- Xmind
+- xueqiu
+- XunLei
 
 ### Y
 
-- YYVoiceTool
-- YY_Voice
 - YangShiPin
 - Yealico
 - YiKaoBang
 - Yitian
-- YouKu_Video
-- YouTube
-- YouTubeMusic
 - YoudaoDict
 - YoudaoNote
 - YoudaoTrans
-- YueDanBa
+- YouKu_Video
+- YouTube
+- YouTubeMusic
 - Yueyou
+- YY_Voice
+- YYVoiceTool
 
 ### Z
 
 - ZAKER
-- ZhiLianZhaoPin
-- ZhiPuChatGLM
 - Zhibo8
 - Zhihu
+- ZhiLianZhaoPin
+- ZhiPuChatGLM
 - ZhixingHC
 - ZhuanZhuan
 - ZongHeng
 - ZuiYou
+
+### 省
+
+- 省钱快报
