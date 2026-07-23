@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 372 个图标
+共 367 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -8,25 +8,10 @@
 
 | 文件 | 说明 | 链接 |
 |------|------|------|
-| icons-all.json | 全部图标 JSON 索引 | [下载](https://raw.githubusercontent.com/1clxiso/loon-icons/main/metadata/icons-all.json) |
+| icons-all.json | 全部图标 JSON 索引（AdblockPlus 固定首位） | [下载](https://raw.githubusercontent.com/1clxiso/loon-icons/main/metadata/icons-all.json) |
 | icons.list | 全部图标列表（name = url） | [下载](https://raw.githubusercontent.com/1clxiso/loon-icons/main/metadata/icons.list) |
 
 ## 图标列表
-
-### #
-
-- 1.1.1.1
-- 12306
-- 123NetWorkDisk
-- 1919
-- 2345tianqiwang
-- 2345WeatherKing
-- 2bulu
-- 360SmartCamera
-- 36Kr
-- 51Job
-- 555DY
-- 91160
 
 ### A
 
@@ -86,7 +71,6 @@
 - CheLaiLe
 - ChengFenMiao
 - ChinaBroadnet
-- chinamobile
 - ChinaMobile
 - ChinaTetlcom
 - ChinaUnicom
@@ -195,7 +179,6 @@
 - JavaScriptConverter
 - JavDB
 - JD
-- jd_price
 - JDJinRong
 - JDWaimai
 - JiaKaoBaoDian
@@ -341,6 +324,7 @@
 - SearchPicture
 - SevenCat
 - SF-Express
+- shengqiankuaibao
 - shenzhenditie
 - shihuo
 - ShopKeeperAdmin
@@ -422,10 +406,8 @@
 - XFuse
 - XiaChuFang
 - xianyu
-- xianyu
 - XiaoCan
 - XiaoHeiHe
-- xiaohongshu
 - xiaohongshu
 - XiaojukejiCharge
 - xiaomi
@@ -465,6 +447,16 @@
 - ZongHeng
 - ZuiYou
 
-### 省
+### #
 
-- 省钱快报
+- 1.1.1.1
+- 12306
+- 123NetWorkDisk
+- 1919
+- 2345tianqiwang
+- 2bulu
+- 360SmartCamera
+- 36Kr
+- 51Job
+- 555DY
+- 91160
