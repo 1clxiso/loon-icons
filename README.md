@@ -60,7 +60,6 @@
 
 - CaiLianShe
 - Cainiao
-- cainiaoyizhan
 - CaixinMedia
 - CatEarFM
 - CCBLife
@@ -179,6 +178,7 @@
 - JavaScriptConverter
 - JavDB
 - JD
+- jd_price
 - JDJinRong
 - JDWaimai
 - JiaKaoBaoDian

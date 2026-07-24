@@ -207,10 +207,6 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Cainiao.png"
     },
     {
-      "name": "cainiaoyizhan",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/cainiaoyizhan.png"
-    },
-    {
       "name": "CaixinMedia",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CaixinMedia.png"
     },
@@ -597,6 +593,10 @@
     {
       "name": "JD",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JD.png"
+    },
+    {
+      "name": "jd_price",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/jd_price.png"
     },
     {
       "name": "JDJinRong",
