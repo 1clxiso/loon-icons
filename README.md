@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 368 个图标
+共 370 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -234,6 +234,7 @@
 - Meizhixiuxing
 - MiaoRead
 - MicrosoftCopilot
+- migushiping
 - MiHome
 - miHoYoBBS
 - MissAV
@@ -332,6 +333,7 @@
 - ShuQiCenterReader
 - Signal
 - Sina_Weibo
+- SkyworthDigitalPicamera
 - smzdm
 - SnailSleep
 - SnowCamera

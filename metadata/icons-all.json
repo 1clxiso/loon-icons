@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共368个图标",
+  "description": "Loon 插件图标库，共370个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -783,6 +783,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MicrosoftCopilot.png"
     },
     {
+      "name": "migushiping",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/migushiping.png"
+    },
+    {
       "name": "MiHome",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MiHome.png"
     },
@@ -1101,6 +1105,10 @@
     {
       "name": "Sina_Weibo",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Sina_Weibo.png"
+    },
+    {
+      "name": "SkyworthDigitalPicamera",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SkyworthDigitalPicamera.png"
     },
     {
       "name": "smzdm",
