@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 373 个图标
+共 374 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -259,6 +259,7 @@
 - Nicegram
 - Nike
 - nodecheck
+- nodeseek
 - Notability
 - NovelFM
 
