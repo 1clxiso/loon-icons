@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共374个图标",
+  "description": "Loon 插件图标库，共375个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -1321,6 +1321,10 @@
     {
       "name": "wloc",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/wloc.jpg"
+    },
+    {
+      "name": "wmbwc",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/wmbwc.png"
     },
     {
       "name": "WPForum",
