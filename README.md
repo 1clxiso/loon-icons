@@ -80,7 +80,6 @@
 - Cookies
 - CoolApk
 - CosmosPodcast
-- Ctrip
 - Cubox
 
 ### D
@@ -421,6 +420,7 @@
 - XiaomiSpeaker
 - xiaoxiangchaoshi
 - xiaoxiaoyouxuan
+- xiecheng
 - ximalaya
 - Xmind
 - xueqiu
