@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共376个图标",
+  "description": "Loon 插件图标库，共377个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -1313,6 +1313,10 @@
     {
       "name": "WeixinMiniPrograms",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WeixinMiniPrograms.png"
+    },
+    {
+      "name": "whostv",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/whostv.jpg"
     },
     {
       "name": "WindInfo",
