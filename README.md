@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 375 个图标
+共 376 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -383,6 +383,7 @@
 
 ### V
 
+- v2ex
 - ValorantBible
 - VideoGo
 - VVebo
