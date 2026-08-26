@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共370个图标",
+  "description": "Loon 插件图标库，共373个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -439,6 +439,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Feichangzhun.png"
     },
     {
+      "name": "feizhu",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/feizhu.png"
+    },
+    {
       "name": "FenBi",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/FenBi.png"
     },
@@ -565,6 +569,10 @@
     {
       "name": "Instapaper",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Instapaper.png"
+    },
+    {
+      "name": "ipquality-web-test",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ipquality-web-test.png"
     },
     {
       "name": "iQiYi_Video",
@@ -1221,6 +1229,10 @@
     {
       "name": "TuGuaiShou",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TuGuaiShou.png"
+    },
+    {
+      "name": "tuhu",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/tuhu.jpg"
     },
     {
       "name": "Tumblr",

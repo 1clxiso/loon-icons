@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 370 个图标
+共 373 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -127,6 +127,7 @@
 
 - fanqiexiaoshuo
 - Feichangzhun
+- feizhu
 - FenBi
 - fengcao
 - FenxiangLife
@@ -168,6 +169,7 @@
 - insav
 - Instagram
 - Instapaper
+- ipquality-web-test
 - iQiYi_Video
 - iReader
 - iReaderCityZHWNL
@@ -365,6 +367,7 @@
 - TongYi
 - TubeMax
 - TuGuaiShou
+- tuhu
 - Tumblr
 - TV_Assistant
 - TXDocs
