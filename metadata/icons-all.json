@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共410个图标",
+  "description": "Loon 插件图标库，共411个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -909,6 +909,10 @@
     {
       "name": "MrHema",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MrHema.png"
+    },
+    {
+      "name": "mxbc",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/mxbc.png"
     },
     {
       "name": "NarwelRobots",
