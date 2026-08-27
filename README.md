@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 411 个图标
+共 412 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -422,6 +422,7 @@
 - WaCaiJiZhang
 - wangzheyingdi
 - watchfaces
+- wechatpay
 - Weibo
 - Weibo_intl
 - Weimai
