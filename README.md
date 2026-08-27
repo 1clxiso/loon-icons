@@ -251,7 +251,6 @@
 - miHoYoBBS
 - MissAV
 - MistralAI
-- MixC
 - MKZ
 - mobileClouds
 - MoeGirlWiki
@@ -450,6 +449,7 @@
 
 - YangShiPin
 - Yealico
+- yidianwanxiang
 - YiKaoBang
 - Yitian
 - YoudaoDict
