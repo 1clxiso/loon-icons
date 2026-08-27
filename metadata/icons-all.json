@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共377个图标",
+  "description": "Loon 插件图标库，共396个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -71,12 +71,20 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/aiqicha.png"
     },
     {
+      "name": "airchina",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/airchina.jpg"
+    },
+    {
       "name": "Airport",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Airport.png"
     },
     {
       "name": "AIWanJuan",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/AIWanJuan.png"
+    },
+    {
+      "name": "alibaba",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/alibaba.jpg"
     },
     {
       "name": "AliPay",
@@ -147,6 +155,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BaiduWenku.png"
     },
     {
+      "name": "bankofchina",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/bankofchina.jpg"
+    },
+    {
       "name": "Bcy",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Bcy.png"
     },
@@ -211,6 +223,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CaixinMedia.png"
     },
     {
+      "name": "caiyun",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/caiyun.jpg"
+    },
+    {
       "name": "CatEarFM",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CatEarFM.png"
     },
@@ -251,6 +267,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ChinaMobile.png"
     },
     {
+      "name": "chinasouthern",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/chinasouthern.jpg"
+    },
+    {
       "name": "ChinaTetlcom",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ChinaTetlcom.png"
     },
@@ -263,8 +283,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Chuzhan.png"
     },
     {
+      "name": "citicbank",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/citicbank.jpg"
+    },
+    {
       "name": "Claude",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Claude.png"
+    },
+    {
+      "name": "cmb",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/cmb.jpg"
     },
     {
       "name": "ColorfulClouds",
@@ -285,6 +313,10 @@
     {
       "name": "CosmosPodcast",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/CosmosPodcast.png"
+    },
+    {
+      "name": "csdn",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/csdn.jpg"
     },
     {
       "name": "Cubox",
@@ -627,6 +659,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Jin10Data.png"
     },
     {
+      "name": "jingxi",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/jingxi.jpg"
+    },
+    {
       "name": "Jump",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Jump.png"
     },
@@ -707,8 +743,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/LazyAudio.png"
     },
     {
+      "name": "lecheng",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/lecheng.jpg"
+    },
+    {
       "name": "liantong",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/liantong.png"
+    },
+    {
+      "name": "liepin",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/liepin.jpg"
     },
     {
       "name": "Line",
@@ -863,6 +907,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Nike.png"
     },
     {
+      "name": "nms",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/nms.jpg"
+    },
+    {
       "name": "nodecheck",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/nodecheck.png"
     },
@@ -877,6 +925,10 @@
     {
       "name": "NovelFM",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NovelFM.png"
+    },
+    {
+      "name": "nscheckin",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/nscheckin.png"
     },
     {
       "name": "OKX",
@@ -943,6 +995,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PikPak.png"
     },
     {
+      "name": "pillow",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/pillow.jpg"
+    },
+    {
       "name": "PinDuoDuo",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PinDuoDuo.png"
     },
@@ -1001,6 +1057,10 @@
     {
       "name": "QiXinBao",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/QiXinBao.png"
+    },
+    {
+      "name": "qixiubaodian",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/qixiubaodian.jpg"
     },
     {
       "name": "QQ",
@@ -1219,6 +1279,14 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TmallAutoCare.png"
     },
     {
+      "name": "todayhot",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/todayhot.jpg"
+    },
+    {
+      "name": "tongcheng",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/tongcheng.jpg"
+    },
+    {
       "name": "TongYi",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TongYi.png"
     },
@@ -1313,6 +1381,10 @@
     {
       "name": "WeixinMiniPrograms",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/WeixinMiniPrograms.png"
+    },
+    {
+      "name": "wenzhenbazi",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/wenzhenbazi.jpg"
     },
     {
       "name": "whostv",
@@ -1497,6 +1569,10 @@
     {
       "name": "ZhixingHC",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/ZhixingHC.png"
+    },
+    {
+      "name": "zhongyou",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/zhongyou.jpg"
     },
     {
       "name": "ZhuanZhuan",

@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 377 个图标
+共 396 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -20,8 +20,10 @@
 - adultra
 - Agenda
 - aiqicha
+- airchina
 - Airport
 - AIWanJuan
+- alibaba
 - AliPay
 - AliYunDrive
 - Amap
@@ -42,6 +44,7 @@
 - BaiduNetDisk
 - BaiduPhoto
 - BaiduWenku
+- bankofchina
 - Bcy
 - Beike
 - BestWall
@@ -61,6 +64,7 @@
 - CaiLianShe
 - Cainiao
 - CaixinMedia
+- caiyun
 - CatEarFM
 - CCBLife
 - CCLive
@@ -71,15 +75,19 @@
 - ChengFenMiao
 - ChinaBroadnet
 - ChinaMobile
+- chinasouthern
 - ChinaTetlcom
 - ChinaUnicom
 - Chuzhan
+- citicbank
 - Claude
+- cmb
 - ColorfulClouds
 - ColorfulCloudsPro
 - Cookies
 - CoolApk
 - CosmosPodcast
+- csdn
 - Cubox
 
 ### D
@@ -186,6 +194,7 @@
 - jiansheyinhang
 - JiaXiaoDrive
 - Jin10Data
+- jingxi
 - Jump
 
 ### K
@@ -212,7 +221,9 @@
 ### L
 
 - LazyAudio
+- lecheng
 - liantong
+- liepin
 - Line
 - LiveLab
 - LOL_Bible
@@ -257,10 +268,12 @@
 - Netflix
 - Nicegram
 - Nike
+- nms
 - nodecheck
 - nodeseek
 - Notability
 - NovelFM
+- nscheckin
 
 ### O
 
@@ -283,6 +296,7 @@
 - PICC_Insurance
 - Picsart
 - PikPak
+- pillow
 - PinDuoDuo
 - Pinterest
 - PiPiXia
@@ -301,6 +315,7 @@
 - QiDian
 - qishui
 - QiXinBao
+- qixiubaodian
 - QQ
 - QQ2
 - QQKSong
@@ -364,6 +379,8 @@
 - Tieba
 - TikTok
 - TmallAutoCare
+- todayhot
+- tongcheng
 - TongYi
 - TubeMax
 - TuGuaiShou
@@ -397,6 +414,7 @@
 - Weimai
 - Weixin
 - WeixinMiniPrograms
+- wenzhenbazi
 - whostv
 - WindInfo
 - wloc
@@ -452,6 +470,7 @@
 - ZhiLianZhaoPin
 - ZhiPuChatGLM
 - ZhixingHC
+- zhongyou
 - ZhuanZhuan
 - ZongHeng
 - ZuiYou
