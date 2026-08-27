@@ -1,6 +1,6 @@
 # Loon Icons
 
-共 396 个图标
+共 409 个图标
 
 图标格式: `https://raw.githubusercontent.com/1clxiso/loon-icons/main/图标名.png`
 
@@ -16,6 +16,7 @@
 ### A
 
 - AdblockPlus
+- adguard
 - Adobe_Creative_Cloud
 - adultra
 - Agenda
@@ -41,9 +42,12 @@
 - Baidu
 - Baidu_input_method
 - BaiduMap
+- baidumap
+- baidunetdisk
 - BaiduNetDisk
 - BaiduPhoto
 - BaiduWenku
+- baiduxi
 - bankofchina
 - Bcy
 - Beike
@@ -150,6 +154,7 @@
 - GaoDing
 - giffgaff
 - GitHub
+- goodnotes
 - Google
 - GoogleGemini
 - GotoCharge
@@ -166,6 +171,7 @@
 - HeartideBrainWave
 - HeiLiaoBuDaYang
 - HMJC
+- huazhu
 - HUPU
 - Huxiu
 - Hypnotist
@@ -186,6 +192,7 @@
 
 - JavaScriptConverter
 - JavDB
+- jd
 - JD
 - jd_price
 - JDJinRong
@@ -196,6 +203,7 @@
 - Jin10Data
 - jingxi
 - Jump
+- juqiri
 
 ### K
 
@@ -244,6 +252,7 @@
 - MeiTuanItakeaway
 - MeituMYXJ
 - Meizhixiuxing
+- mgtv
 - MiaoRead
 - MicrosoftCopilot
 - migushiping
@@ -318,6 +327,7 @@
 - QQ
 - QQ2
 - QQKSong
+- qqlive
 - QQMusic
 - QtingFM
 - QuarkBrowser
@@ -393,6 +403,7 @@
 - Udn
 - Uki
 - Umetrip
+- unicom_component
 - UnionPay
 - UnnooQuan
 - UpNote
@@ -408,6 +419,7 @@
 
 - WaCaiJiZhang
 - wangzheyingdi
+- watchfaces
 - Weibo
 - Weibo_intl
 - Weimai
@@ -471,6 +483,7 @@
 - ZhiPuChatGLM
 - ZhixingHC
 - zhongyou
+- zhongyuzaixian
 - ZhuanZhuan
 - ZongHeng
 - ZuiYou
