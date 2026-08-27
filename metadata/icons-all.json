@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共409个图标",
+  "description": "Loon 插件图标库，共410个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -1041,6 +1041,10 @@
     {
       "name": "PiPiXia",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/PiPiXia.png"
+    },
+    {
+      "name": "Pornhub",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Pornhub.ico"
     },
     {
       "name": "PrimeVideo",
