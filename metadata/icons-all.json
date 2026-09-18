@@ -1,6 +1,4 @@
 {
-  "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共412个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -69,6 +67,10 @@
     {
       "name": "Agenda",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Agenda.png"
+    },
+    {
+      "name": "agentrouter",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/agentrouter.png"
     },
     {
       "name": "aiqicha",
@@ -143,6 +145,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Baidu_input_method.png"
     },
     {
+      "name": "baiduditu",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/baiduditu.png"
+    },
+    {
       "name": "BaiduMap",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BaiduMap.png"
     },
@@ -151,12 +157,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/baidumap.jpg"
     },
     {
-      "name": "baidunetdisk",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/baidunetdisk.jpg"
-    },
-    {
       "name": "BaiduNetDisk",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/BaiduNetDisk.png"
+    },
+    {
+      "name": "baidunetdisk",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/baidunetdisk.jpg"
     },
     {
       "name": "BaiduPhoto",
@@ -396,11 +402,11 @@
     },
     {
       "name": "Discovery+",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Discovery%2B.png"
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Discovery+.png"
     },
     {
       "name": "Disney+",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Disney%2B.png"
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Disney+.png"
     },
     {
       "name": "Dlabel",
@@ -567,8 +573,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/GuaiShouChongDian.png"
     },
     {
+      "name": "guazishipin",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/guazishipin.png"
+    },
+    {
       "name": "GuideRank",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/GuideRank.png"
+    },
+    {
+      "name": "haijiao",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/haijiao.png"
     },
     {
       "name": "HanXiaoQuan",
@@ -651,12 +665,12 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JavDB.png"
     },
     {
-      "name": "jd",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/jd.jpg"
-    },
-    {
       "name": "JD",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JD.png"
+    },
+    {
+      "name": "jd",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/jd.jpg"
     },
     {
       "name": "jd_price",
@@ -801,6 +815,10 @@
     {
       "name": "loon",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/loon.png"
+    },
+    {
+      "name": "loongallery",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/loongallery.png"
     },
     {
       "name": "LuckinCoffee",
@@ -959,6 +977,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Notability.png"
     },
     {
+      "name": "notabilitys",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/notabilitys.jpg"
+    },
+    {
       "name": "NovelFM",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/NovelFM.png"
     },
@@ -1000,7 +1022,7 @@
     },
     {
       "name": "Paramount+",
-      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Paramount%2B.png"
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Paramount+.png"
     },
     {
       "name": "PayPal",
@@ -1251,6 +1273,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Spotify.png"
     },
     {
+      "name": "startup",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/startup.jpg"
+    },
+    {
       "name": "startupads_icon",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/startupads_icon.jpg"
     },
@@ -1261,6 +1287,10 @@
     {
       "name": "SuZhouCitizenCard",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SuZhouCitizenCard.png"
+    },
+    {
+      "name": "taikang",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/taikang.png"
     },
     {
       "name": "taikangbaoxian",
