@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共420个图标",
+  "description": "Loon 插件图标库，共421个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -1585,6 +1585,10 @@
     {
       "name": "YangShiPin",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YangShiPin.png"
+    },
+    {
+      "name": "yanxuan",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/yanxuan.jpg"
     },
     {
       "name": "Yealico",
