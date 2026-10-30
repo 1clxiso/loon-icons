@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共431个图标",
+  "description": "Loon 插件图标库，共432个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -373,6 +373,10 @@
     {
       "name": "dejianxiaoshuo",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/dejianxiaoshuo.png"
+    },
+    {
+      "name": "dev-loopback",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/dev-loopback.png"
     },
     {
       "name": "Dewu",
