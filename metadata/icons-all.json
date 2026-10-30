@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共421个图标",
+  "description": "Loon 插件图标库，共430个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -403,6 +403,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Discord.png"
     },
     {
+      "name": "discord-translate",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/discord-translate.jpg"
+    },
+    {
       "name": "Discovery+",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Discovery+.png"
     },
@@ -603,8 +607,16 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HeiLiaoBuDaYang.png"
     },
     {
+      "name": "hgdj",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/hgdj.png"
+    },
+    {
       "name": "HMJC",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HMJC.png"
+    },
+    {
+      "name": "hongguo",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/hongguo.png"
     },
     {
       "name": "huazhu",
@@ -665,6 +677,10 @@
     {
       "name": "JavDB",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JavDB.png"
+    },
+    {
+      "name": "javhd",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/javhd.png"
     },
     {
       "name": "JD",
@@ -861,6 +877,10 @@
     {
       "name": "MeiTu",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/MeiTu.png"
+    },
+    {
+      "name": "meituan",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/meituan.png"
     },
     {
       "name": "MeiTuanItakeaway",
@@ -1243,6 +1263,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Sina_Weibo.png"
     },
     {
+      "name": "skip-proxy",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/skip-proxy.png"
+    },
+    {
       "name": "SkyworthDigitalPicamera",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/SkyworthDigitalPicamera.png"
     },
@@ -1349,6 +1373,10 @@
     {
       "name": "TikTok",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/TikTok.png"
+    },
+    {
+      "name": "tinder",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/tinder.png"
     },
     {
       "name": "TmallAutoCare",
@@ -1519,6 +1547,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/X.png"
     },
     {
+      "name": "xcx",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/xcx.png"
+    },
+    {
       "name": "XFuse",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/XFuse.png"
     },
@@ -1625,6 +1657,10 @@
     {
       "name": "YouTube",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/YouTube.png"
+    },
+    {
+      "name": "youtube_gholts",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/youtube_gholts.png"
     },
     {
       "name": "YouTubeMusic",
