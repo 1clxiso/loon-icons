@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共430个图标",
+  "description": "Loon 插件图标库，共431个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -589,6 +589,10 @@
     {
       "name": "haijiao",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/haijiao.png"
+    },
+    {
+      "name": "haluo",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/haluo.png"
     },
     {
       "name": "HanXiaoQuan",
