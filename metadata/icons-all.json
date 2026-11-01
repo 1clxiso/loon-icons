@@ -1,6 +1,6 @@
 {
   "name": "1clxiso 图标库",
-  "description": "Loon 插件图标库，共432个图标",
+  "description": "Loon 插件图标库，共435个图标",
   "icons": [
     {
       "name": "AdblockPlus",
@@ -615,6 +615,10 @@
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HeiLiaoBuDaYang.png"
     },
     {
+      "name": "HepingCamp",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/HepingCamp.jpg"
+    },
+    {
       "name": "hgdj",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/hgdj.png"
     },
@@ -709,6 +713,10 @@
     {
       "name": "JDWaimai",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/JDWaimai.png"
+    },
+    {
+      "name": "Jegotrip",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/Jegotrip.jpg"
     },
     {
       "name": "JiaKaoBaoDian",
@@ -1453,6 +1461,10 @@
     {
       "name": "UpNote",
       "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/UpNote.png"
+    },
+    {
+      "name": "V2ex",
+      "url": "https://raw.githubusercontent.com/1clxiso/loon-icons/main/V2ex.png"
     },
     {
       "name": "v2ex",
